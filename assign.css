@@ -1,0 +1,21 @@
+div{
+    width: 500px;
+    height: 700px;
+    background-image: url(dark-black-brick-wall-has-rough-surface-as-background-image_99266-242.avif);
+    color: aliceblue;
+    font-size: 20px;
+    border: double;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+}
+button{
+    font-size: large;
+    border: dashed;
+    border-radius: 10px;
+    background-color:gold;
+}
